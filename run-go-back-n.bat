@@ -5,7 +5,7 @@ erl -compile sender transmitter receiver execute
 :: Default parameters
 SET NumOfFrames=1000
 SET LossProb=0.05
-SET WindowSize=2
+SET WindowSize=31
 
 IF "%1"=="" (
     echo No. of frames: %NumOfFrames%
