@@ -13,8 +13,8 @@ Arguments:
   - Window Size
 
 For example:
-'''
+```
 ./run-selective-repeat.bat 10000 0.05 64
 ./run-stop-and-wait.bat 2500 0.10
-'''
+```
   
